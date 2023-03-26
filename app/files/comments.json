@@ -1,0 +1,40 @@
+{
+"comments": [
+{
+"id": 1,
+"news_id": 1,
+"title": "comment_1",
+"date": "2019-01-02T21:58:25",
+"comment": "Comment"
+},
+{
+"id": 2,
+"news_id": 2,
+"title": "comment_2",
+"date": "2019-01-02T21:58:25",
+"comment": "Comment"
+},
+{
+"id": 3,
+"news_id": 2,
+"title": "comment_3",
+"date": "2019-01-02T21:58:25",
+"comment": "Comment"
+},
+{
+"id": 4,
+"news_id": 3,
+"title": "comment_4",
+"date": "2019-01-02T21:58:25",
+"comment": "Comment"
+},
+{
+"id": 5,
+"news_id": 2,
+"title": "comment_5",
+"date": "2018-01-02T21:58:25",
+"comment": "Comment 5"
+}
+],
+"comments_count": 5
+}
